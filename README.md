@@ -1,5 +1,5 @@
-Hi, I’m @dotamirhosein
-I’m currently learning Python
+- Hi, I’m @dotamirhosein
+- I’m currently learning Python
 
 
 <!---
